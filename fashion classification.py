@@ -3,7 +3,7 @@
 
 # # Fashion Image classification
 # 
-# The fashion imgae data set consists of 10 different items classes. The items included in this data set are T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag and ankle boots. The data set has grey scale images of 28*28 of 10 different catagories/classes. The data set consists of 60,000 images in training set and 10,000 imgaes in test set.
+# The fashion image data set consists of 10 different items classes. The items included in this data set are T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag and ankle boots. The data set has grey scale images of 28*28 of 10 different catagories/classes. The data set consists of 60,000 images in training set and 10,000 imgaes in test set.
 
 # Lets first start by importing all the required libraries
 
